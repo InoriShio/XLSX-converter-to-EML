@@ -1,0 +1,9 @@
+{
+  "gemeente_naam": "name",
+  "gemeente_code": "code",
+  "election_date": "YYYY-MM-DD",
+  "election_subcategory": "GR2",
+  "number_of_seats": 23,
+  "preference_threshold": 25,
+  "nomination_date": "YYYY-MM-DD"
+}
